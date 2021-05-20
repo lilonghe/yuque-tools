@@ -1,0 +1,1 @@
+copy `download.js` file content to devtool's console, and execute `startDownload`;
